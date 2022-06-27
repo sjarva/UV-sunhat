@@ -3,7 +3,7 @@
 I am that type of person who burns really, really quickly when I am out in the sun.
 I try to remember put on sunscreen, but I do not know when how often I should do that.
 
-When I saw a [a tutorial from Adafruit on how to build a sunscreen reminder hat](https://learn.adafruit.com/sunscreen-reminder-hat?view=all), I knew what my next electronics project for the next summer would be.
+When I saw [a tutorial from Adafruit on how to build a sunscreen reminder hat](https://learn.adafruit.com/sunscreen-reminder-hat?view=all), I knew what my next electronics project for the next summer would be.
 
 ## Specs of the original sun hat and the need for change
 
