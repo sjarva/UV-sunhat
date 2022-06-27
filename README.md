@@ -10,9 +10,9 @@ When I saw [a tutorial from Adafruit on how to build a sunscreen reminder hat](h
 ### The microcontroller
 The tutorial recommends using Adafruit's [Flora microcontroller](https://www.adafruit.com/product/659) in the sunhat. Although Flora is great for larger wearables (pieces of clothing or large accessories), I found the size of Flora too big for this hat project. In the original tutorial's photos (e.g. [this one](https://learn.adafruit.com/assets/18327)), the Flora is partly hidden behind the hat's ribbon, but it bothers me that I and everybody else can see it peeking there.
 
-Immediately I was wondering if I'd be able to use another, smaller microcontroller to make this hat. But as it happens, the author of the tutorial must have had a similar thoughts, because she had written "The UV sensor does not work with Gemma or Trinket, so a Flora is required". However, this tutorial was published in 2014, when Adafruit had their [older version (v2) of Gemma](https://www.adafruit.com/product/1222).
+Immediately I was wondering if I'd be able to use another, smaller microcontroller to make this hat. But as it happens, the author of the tutorial must have had a similar thoughts, because she had written "The UV sensor does not work with Gemma or Trinket, so a Flora is required". However, this tutorial was published in 2014, when Adafruit had their [older version of Gemma (v2)](https://www.adafruit.com/product/1222).
 
-I started to research if it was possible to use the [newer version (m0) of Gemma](https://www.adafruit.com/product/3501) to make this hat, because Gemma m0 had many upgrades and is more powerful than Gemma's previous versions.
+I started to research if it was possible to use the [newer version of Gemma (M0)](https://www.adafruit.com/product/3501) to make this hat, because Gemma m0 had many upgrades and is more powerful than Gemma's previous versions.
 
 ### The calculation of UV load based on skin type and used SPF
 I noticed also, that the tutorial code calculates the need for more sunscreen quite simply - if the sensed/measured UV index above a certain threshold and a certain time limit has been passed, then the hat chimes and it is time to put on sunscreen.
